@@ -11,18 +11,18 @@ A Django-based backend API for a job board platform with Swagger documentation, 
 - Celery & RabbitMQ
 
 ## Core Backend Development Concepts:
--Database Design & Optimization
--Asynchronous Programming (AsyncIO, Celery)
--Caching Strategies (Redis, Memcached)
--Authentication & Authorization (JWT, OAuth)
--System Design Principles
--API Versioning & Pagination
+- Database Design & Optimization
+- Asynchronous Programming (AsyncIO, Celery)
+- Caching Strategies (Redis, Memcached)
+- Authentication & Authorization (JWT, OAuth)
+- System Design Principles
+- API Versioning & Pagination
 
 ## Features:
--Users can apply for jobs.
--Admin can manage everything.
--Job filtering by geolocation and category.
--Swagger API docs at /api/docs
+- Users can apply for jobs.
+- Admin can manage everything.
+- Job filtering by geolocation and category.
+- Swagger API docs at /api/docs
 
 ## Tech stack used:
 - Django + Django REST FRAMEWORK
