@@ -2,13 +2,13 @@
 A Django-based backend API for a job board platform with Swagger documentation, optimized job search, and role-based access control.
 
 ## Key Technologies Covered:
--Python
--Django
--Django REST Framework (DRF)
--GraphQL
--Docker & Docker Compose
--CI/CD Pipelines (GitHub Actions)
--Celery & RabbitMQ
+- Python
+- Django
+- Django REST Framework (DRF)
+- GraphQL
+- Docker & Docker Compose
+- CI/CD Pipelines (GitHub Actions)
+- Celery & RabbitMQ
 
 ## Core Backend Development Concepts:
 -Database Design & Optimization
