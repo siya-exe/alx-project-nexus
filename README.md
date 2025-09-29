@@ -32,3 +32,12 @@ A Django-based backend API for a job board platform with Swagger documentation, 
 # Roles:
 * Admin: Will have full access to all features, such as Jobs, Categories, and Applications.
 * User: Can apply to jobs and view listings.
+
+## API Endpoints:
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/api/token/` | POST | Get access & refresh tokens |
+| `/api/jobs/` | GET | List/filter jobs |
+| `/api/jobs/` | POST | Create a job (admin only) |
+| `/api/categories/` | POST | Add new category (admin only) |
+| `/api/applications/` | POST | Apply to a job (user) |
